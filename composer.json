@@ -9,7 +9,7 @@
     "homepage": "http://html5boilerplate.com",
     "license": "MIT",
     "require": {
-        "components/jquery": ">=1.10.2",
+        "components/jquery": ">=1.10.2,<1.11-dev",
         "components/modernizr": ">=2.6.2",
         "components/normalize.css": "1.*"
     },
